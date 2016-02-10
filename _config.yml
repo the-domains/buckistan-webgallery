@@ -1,0 +1,28 @@
+name: buckistan webgallery
+favicon: null
+layout_spectrum: 0.3194675175473094
+typography_spectrum: 0.6744790794327855
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6609955029562116
+  lightness: 0.5585290135350078
+  saturation: 0.973777289967984
+  rhythmicContrast: 0.8575209376867861
+purpose: []
