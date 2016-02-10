@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[buckistan webgallery]]></title>
         <description><![CDATA[buckistan webgallery]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/buckistan-webgallery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 16:57:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 17:15:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/buckistan-webgallery/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[the watercastle]]></title>
+            <description><![CDATA[<article><h1>the watercastle</h1><p>from venice</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ff87415-7364-4c14-8c21-ca732102e21c.png"></article>]]></description>
+            <link>https://thegrid.ai/buckistan-webgallery/the-watercastle/index.html</link>
+            <guid isPermaLink="false">59119a88-4df6-4bf7-a06c-18ecd051c337</guid>
+            <pubDate>Wed, 10 Feb 2016 17:13:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69212588-17e5-47ae-8f7d-f5edf8996101.jpg">]]></description>
-            <link>undefined6451a322-bbcb-4519-8571-6a40c56208a2/index.html</link>
+            <link>https://thegrid.ai/buckistan-webgallery/6451a322-bbcb-4519-8571-6a40c56208a2/index.html</link>
             <guid isPermaLink="false">6451a322-bbcb-4519-8571-6a40c56208a2</guid>
             <pubDate>Wed, 10 Feb 2016 16:56:06 GMT</pubDate>
         </item>
